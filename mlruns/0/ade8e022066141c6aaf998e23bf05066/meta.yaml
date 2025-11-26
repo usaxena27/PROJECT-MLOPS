@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/PROJECT%20MLOPS/mlruns/0/ade8e022066141c6aaf998e23bf05066/artifacts
+end_time: 1764181993936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ade8e022066141c6aaf998e23bf05066
+run_name: rebellious-tern-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764181970166
+status: 3
+tags: []
+user_id: UTKARSH
